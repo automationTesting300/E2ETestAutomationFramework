@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.cache
+bin/
+obj/
+TestResults/
+*.log
+
+# Playwright
+playwright-report/
+allure-results/
+allure-report/
