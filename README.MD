@@ -6,7 +6,7 @@ This framework has been completed using C#, NUnit and Playwright. Reporting has 
 2. Install Playwright: playwright install
 3. Run tests: dotnet test
 
-Run Tests with reporting:
+## Run Tests with reporting:
 1  Install Allure from official Allure website
 2. Verify with allure --version
 3. Run and generate Allure HTML report from test results: allure run -- dotnet test
