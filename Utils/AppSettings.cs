@@ -18,7 +18,5 @@ namespace YourProject.Configuration
         public static string BaseUrl => _config["TestEnvironment:BaseUrl"];
         public static string Username => _config["Credentials:Username"];
         public static string Password => _config["Credentials:Password"];
-
-
     }
 }
