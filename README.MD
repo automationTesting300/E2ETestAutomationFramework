@@ -21,8 +21,7 @@ This framework has been completed using C#, NUnit and Playwright. Reporting has 
 
 ## Improvements
 - Note: The username and password would not be hardcoded or not included in GIT in a producTion framework
-- API key would not be in app settings file
-- In a production framework I would have more negative test coverage at the API/Integration test layer
+- In a production framework there would have more negative test coverage at the API/Integration test layer
 - Add data-driven tests
 - Add CI pipeline (GitHub Actions)
 - Cross-browser execution
